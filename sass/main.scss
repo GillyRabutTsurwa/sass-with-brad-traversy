@@ -1,0 +1,17 @@
+$font-stack: Arial, Helvetica, sans-serif;
+$custom-default-font-size: 62.5%;
+
+$colour-light: #f4f4f4;
+$colour-primary: #0e6cff;
+$colour-secondary: #ff8700;
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: $custom-default-font-size;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sass",
+  "version": "1.0.0",
+  "description": "stopped at 6:38",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --style=compressed sass/main.scss css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GillyRabutTsurwa/sass-with-brad-traversy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GillyRabutTsurwa/sass-with-brad-traversy/issues"
+  },
+  "homepage": "https://github.com/GillyRabutTsurwa/sass-with-brad-traversy#readme",
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
